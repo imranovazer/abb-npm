@@ -1,0 +1,25 @@
+{
+  "name": "project-x",
+  "version": "1.0.0",
+  "description": "Azer Imranov Full-Stack node js",
+  "main": "./app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imranovazer/abb-npm"
+  },
+  "author": "Azer",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.29.2",
+    "eslint": "^8.40.0",
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "moment": "^2.29.4"
+  }
+}
